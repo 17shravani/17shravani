@@ -20,7 +20,7 @@ javascript
 const shravani = {
     pronouns: "She/Her",
     location: "India 🇮🇳",
-    role: "Frontend Developer",
+    role: "Software Developer",
     passion: "Creating beautiful and interactive user experiences",
     currentFocus: "Building responsive web applications",
     technologies: {
