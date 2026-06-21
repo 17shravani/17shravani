@@ -1,7 +1,7 @@
 # Hi 👋, I'm Shravani Chaitanya Gadekar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=A+passionate+frontend+developer;From+India+%F0%9F%87%AE%F0%9F%87%B3;Creating+beautiful+web+experiences;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=A+passionate+Software+developer;From+India+%F0%9F%87%AE%F0%9F%87%B3;Creating+beautiful+web+experiences;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
